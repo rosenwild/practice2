@@ -6,4 +6,6 @@ b = 1
 c = a + 4
 d = b + 5
 print(c, d)
-
+v = "hello"
+z = "hi"
+print(v, z)
