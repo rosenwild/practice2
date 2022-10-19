@@ -3,5 +3,7 @@ def is_eq(a,b):
 
 a = 1
 b = 1
-print(a,b)
+c = a + 4
+d = b + 5
+print(c, d)
 
