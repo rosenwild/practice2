@@ -3,5 +3,6 @@ def is_eq(a,b):
 
 a = 1
 b = 1
-print(a,b)
-
+v = "hello"
+z = "hi"
+print(v, z)
